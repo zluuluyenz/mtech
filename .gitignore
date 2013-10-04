@@ -83,4 +83,7 @@ pom.xml~
 *~
 .DS_Store
 transaction.log
+build.properties
+.mtj
+.mtj.tmp/
 
